@@ -16,13 +16,13 @@ Nesta atividade inicial, o objetivo foi configurar o ambiente de desenvolvimento
 
 ## 📂 Estrutura do Repositório
 
-/M4
-│
-├── atividade1/
-│   ├── led_piscando.jpg
-│   └── print_IDE.png
-│
-└── README.md
+/M4-IOT <br>
+│ <br>
+├── atividade1/ <br>
+│   ├── led_piscando.jpg <br>
+│   └── print_IDE.png <br>
+│ <br>
+└── README.md <br>
 
 --- 
 💬E-mail: matheus.silva@sou.inteli.edu.br 
