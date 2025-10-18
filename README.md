@@ -16,13 +16,16 @@ Nesta atividade inicial, o objetivo foi configurar o ambiente de desenvolvimento
 
 ## 📂 Estrutura do Repositório
 
-/M4-IOT <br>
-│ <br>
-├── atividade1/ <br>
-│   ├── led_piscando.jpg <br>
-│   └── print_IDE.png <br>
-│ <br>
-└── README.md <br>
+M4-IOT/<br> 
+└── atividade1/ <br> 
+    ├── assets/ <br> 
+    │   ├── led_interno.gif<br> 
+    │   ├── montagem_tinkercad.brd<br> 
+    │   ├── print_IDE.png<br> 
+    │   ├── protoboard.gif<br> 
+    │   └── tinkercad.png<br> 
+    ├── README.md<br> 
+└── README.md<br> 
 
 --- 
 💬E-mail: matheus.silva@sou.inteli.edu.br 
