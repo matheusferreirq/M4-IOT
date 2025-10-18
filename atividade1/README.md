@@ -73,7 +73,7 @@ void loop() {
    <sup>Fonte: Autoral (2025)</sup>
  </div>
 
-- Código exportado: 📥 [Baixar o arquivo da placa (.brd)](assets/placa.brd)
+- Código exportado: 📥 [Baixar o arquivo da placa (.brd)](assets/montagem_tinkercad.brd)
 
 ## Parte 2.2 - Montagem física no Protoboard
 
