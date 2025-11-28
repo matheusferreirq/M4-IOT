@@ -76,7 +76,7 @@ A gauge fornece uma leitura imediata da força do sinal, facilitando a interpret
 
 <div align="center">
    <sub>Imagem 1: Dashboard no Ubidots</sub><br>
-   <img src="assets/gauge.png" width="100%" 
+   <img src="assets/dashboard.png" width="100%" 
    alt="Dashboard no Ubidots"><br>
    <sup>Fonte: Autoral (2025)</sup>
  </div>
